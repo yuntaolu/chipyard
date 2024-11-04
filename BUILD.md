@@ -1,4 +1,4 @@
-# Build options - previous used
+# Build options
 # A script to build
 
 
